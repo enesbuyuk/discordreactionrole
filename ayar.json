@@ -1,0 +1,74 @@
+
+		"rolrengarenk" : ["💥 ●▬▬● Rengarenk ●▬▬● 💥", "🌈"],
+		"rolpartnergor" : ["Partner Görme", "👁️"],
+
+		"rolkirmizi" : ["● ═════ ● Renk: Kırmızı ● ═════ ●", "🇦"],
+		"rolbordo" : ["● ═════ ● Renk: Bordo ● ═════ ●", "🇧"],
+		"rolkahverengi" : ["● ═════ ● Renk: Kahverengi ● ═════ ●", "🇨"],
+		"rolturuncu" : ["● ═════ ● Renk: Turuncu ● ═════ ●", "🇩"],
+		"rolsari" : ["● ═════ ● Renk: Sarı ● ═════ ●", "🇪"],
+		"rolayesil" : ["● ═════ ● Renk: A. Yeşil ● ═════ ●", "🇫"],
+		"rolyesil" : ["● ═════ ● Renk: Yeşil ● ═════ ●", "🇬"],
+		"rolcyan" : ["● ═════ ● Renk: Cyan ● ═════ ●", "🇭"],
+		"rolmavi" : ["● ═════ ● Renk: Mavi ● ═════ ●", "🇮"],
+		"rollacivert" : ["● ═════ ● Renk: Lacivert ● ═════ ●", "🇯"],
+		"rolmor" : ["● ═════ ● Renk: Mor ● ═════ ●", "🇰"],
+		"rolpembe" : ["● ═════ ● Renk: Pembe ● ═════ ●", "🇱"],
+		"rolbeyaz" : ["● ═════ ● Renk: Beyaz ● ═════ ●", "🇲"],
+		"rolgri" : ["● ═════ ● Renk: Gri ● ═════ ●", "🇳"],
+		"rolsiyah" : ["● ═════ ● Renk: Siyah ● ═════ ●", "🇴"],
+
+
+		
+		"rolerkek" : ["Erkek", "♂️"],
+		"rolkiz" : ["Kız", "♀️"],
+		"rolbelirtmek" : ["Belirtmek İstemiyorum", "⚪"],
+
+		
+		"rolortaokul" : ["Ortaokul", "📗"],
+		"rollise" : ["Lise","📘"],
+		"rolmezunlise" : ["Mezun (Lise)", "📕"],
+		"roluniversite" : ["Üniversite", "📙"],
+		"rolmezununiversite" : ["Mezun (Üniversite)", "📔"],
+
+		
+		"rolsayisal" : ["Sayısal", "📐"],
+		"rolesit" : ["Eşit Ağırlık", "📏"],
+		"rolsozel" : ["Sözel", "📜"],
+		"roldil" : ["Dil", "🏷️"],
+
+		
+		"rologlak" : ["Oğlak", "♑"],
+		"rolkova" : ["Kova", "♒"],
+		"rolbalik" : ["Balık", "♓"],
+		"rolkoc" : ["Koç", "♈"],
+		"rolboga" : ["Boğa", "♉"],
+		"rolikizler" : ["İkizler", "♊"],
+		"rolyengec" : ["Yengeç", "♋"],
+		"rolaslan" : ["Aslan", "♌"],
+		"rolbasak" : ["Başak", "♍"],
+		"rolterazi" : ["Terazi", "♎"],
+		"rolakrep" : ["Akrep", "♏"],
+		"rolyay" : ["Yay", "♐"],
+
+		
+		"rolbilim" : ["Bilim", "🔬"],
+		"roledebiyat" : ["Edebiyat", "📝"],
+		"rolfelsefe" : ["Felsefe", "🌏"],
+		"rolmuzik" : ["Müzik", "🎻"],
+		"rolresim" : ["Resim", "🌈"],
+		"rolspor" : ["Spor", "🏅"],
+		"roloyunlar" : ["Oyunlar", "🔫"],
+
+		
+		"rolmini" : ["Mini Oyunlar", "0️⃣"],
+		"rolcs" : ["CS:GO", "1️⃣"],
+		"rolval" : ["Valorant", "2️⃣"],
+		"rolpubg" : ["PUBG", "3️⃣"],
+		"rolfort" : ["Fortnite", "4️⃣"],
+		"rollol" : ["League of Legends", "5️⃣"],
+		"rolgta" : ["GTA V", "6️⃣"],
+		"rolamong" : ["Among Us", "7️⃣"],
+		"rolmc" : ["Minecraft", "8️⃣"],
+		"rolapex" : ["Apex Legends", "9️⃣"],
+		"rolrocket" : ["Rocket League", "🔟"],
